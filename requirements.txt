@@ -9,7 +9,7 @@ cffi==1.14.0
 chardet==3.0.4
 colorama==0.4.3
 constantly==15.1.0
-cryptography==2.8
+cryptography==3.2
 cssselect==1.1.0
 Django==3.0.5
 djangorestframework==3.11.0
